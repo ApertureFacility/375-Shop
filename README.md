@@ -1,5 +1,3 @@
-1
-
 
 Пэт проект интернет-магазин с витриной и админкой на React, Redux-Toolkit, TypeScript.
 
@@ -94,8 +92,3 @@ npm install
 ```sh
 npm run start
 ```
-
-Если все прошло успешно, проект будет запущен на `http://localhost:3000`
-=======
-# 375Shop
->>>>>>> 73ac0b639fcf59fda678736ea8e65685e959ce5e
